@@ -39,18 +39,7 @@ and open the template in the editor.
         <div class="jumbotron jumbotron-fluid" style="background-color:orange"> <h2><b>Alerta Laranja, Tempestade</b>": Paraná, Santa Catarina"</h2>
         </div> 
                
-               <div class="jumbotron" style="background-color:#CCD1D1" >
-                   <h1 >Tempo para Brusque-SC |<span id="temperatura"> </span> </h1>
-                   
-                   <p>
-                       <span id="situacao"></span>
-                     
-                         <img id ="icone" src="img/icones/02d.png"/>
-                        
-                   </p>
-                   
-                   
-                     </div>
+               
                    
       <div class="jumbotron"  style="background-color:#D5D8DC  ">
           <h1>Umidade em Brusque | <span id="umidade"> </span></h1>
